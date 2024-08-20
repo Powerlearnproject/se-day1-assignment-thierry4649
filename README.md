@@ -77,3 +77,4 @@ Provide an example of a vague prompt and then improve it by making it clear, spe
 Vague prompt-"Tell me about climate."
 Improved prompt-"Describe the main causes and effects of climate change."
 The improved prompt specifies climate change and focuses on its causes and effects which directs the AI to provide information about a specific aspect of climate rather than discussing climate in general.
+  
